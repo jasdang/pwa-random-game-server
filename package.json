@@ -1,0 +1,7 @@
+{
+  "name": "pwa-random-game-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jasmine Dang <ngandth.1992@gmail.com>",
+  "license": "MIT"
+}
